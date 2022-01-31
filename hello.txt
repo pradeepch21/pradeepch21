@@ -1,3 +1,0 @@
- file created in dev barnch
-This is comparision lecture
-changes made in bug1
